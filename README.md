@@ -288,7 +288,7 @@ Shubham Maurya
 
 💻 Skills Used: Microsoft Excel | Power Query | Data Cleaning | PivotTables | Data Visualization | Sales Analysis
 <p>
-  <a href="www.linkedin.com/in/shubham-maurya-a53b57c59">
+  <a href="https://www.linkedin.com/in/shubham-maurya-a53b57c59/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p>
